@@ -1,0 +1,15 @@
+body{
+    font-family: Arial;
+    background: #f5dff5;
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.card{
+    background: #ee97f4;
+    border: 1px solid #782478;
+    border-radius:12px;
+    padding: 32px;
+    width: 360px;
+}
